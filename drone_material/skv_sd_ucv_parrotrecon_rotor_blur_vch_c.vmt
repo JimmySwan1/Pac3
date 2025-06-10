@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\UCV_ParrotRecon\SKV_SD_UCV_ParrotRecon_Rotor_Blur_vCH_c"
+	"$halflambert" "1"				
+	"$nocull" 1
+	"$translucent" 1	
+}
